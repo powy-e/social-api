@@ -1,1 +1,1 @@
-web: ./target/release/rogerio-os
+web: git ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 ./target/release/rogerio-os
