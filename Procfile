@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 cargo run
+web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 cargo run --package social-api --bin social-api

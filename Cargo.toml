@@ -1,5 +1,5 @@
 [package]
-name = "social"
+name = "social-api"
 version = "0.1.0"
 authors = ["Eduardo Nazário <eduardo.nazario@tecnico.ulisboa.pt>"]
 description = "API to fetch the IST's Alameda campus canteen"
