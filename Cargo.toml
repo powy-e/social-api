@@ -3,7 +3,7 @@ name = "social"
 version = "0.1.0"
 authors = ["Eduardo Nazário <eduardo.nazario@tecnico.ulisboa.pt>"]
 description = "API to fetch the IST's Alameda campus canteen"
-
+edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
